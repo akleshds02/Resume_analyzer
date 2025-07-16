@@ -39,16 +39,18 @@ While preparing for placements and job applications, many students and freshers 
 ## 📁 Folder Structure
 
 resume_analyzer/
+
 │
 ├── app.py # Main Streamlit application
+
 ├── resume_parser.py # Logic to extract text and keywords from resume
+
 ├── job_description.txt # Sample JD file
+
 ├── sample_resume.pdf # Sample resume for testing
+
 ├── requirements.txt # Required Python packages
 
-yaml
-Copy
-Edit
 
 ---
 
