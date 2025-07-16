@@ -1,0 +1,5 @@
+We are looking for a Machine Learning Engineer who is proficient in Python, data preprocessing, and model evaluation techniques. 
+The ideal candidate should have experience with libraries like Pandas, NumPy, Scikit-learn, and Matplotlib. 
+Familiarity with Streamlit or other data visualization tools is a plus. 
+Experience working on NLP projects, especially with resume parsing or classification problems, is highly desirable. 
+Good communication and problem-solving skills are expected.
