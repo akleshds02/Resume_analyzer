@@ -7,7 +7,7 @@ from io import BytesIO
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-
+# Load pre-trained nlp module from spaCy
 nlp = spacy.load("en_core_web_sm")
 
 # Load job description from file
